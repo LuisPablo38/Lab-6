@@ -1,0 +1,8 @@
+﻿  Lab6_LuisTujab_1103920.cpp
+C:\Users\luisp\Desktop\Landivar\Segundo Año\Cuarto Ciclo\Progra Avanzada\Lab Avanzada\Lab6_LuisTujab_1103920\Lab6_LuisTujab_1103920\Lab6_LuisTujab_1103920.cpp(60,18): warning C4102: 'regresar_menuPrin': etiqueta sin referencia
+C:\Users\luisp\Desktop\Landivar\Segundo Año\Cuarto Ciclo\Progra Avanzada\Lab Avanzada\Lab6_LuisTujab_1103920\Lab6_LuisTujab_1103920\Lab6_LuisTujab_1103920.cpp(67,32): warning C4101: 'error': variable local sin referencia
+C:\Users\luisp\Desktop\Landivar\Segundo Año\Cuarto Ciclo\Progra Avanzada\Lab Avanzada\Lab6_LuisTujab_1103920\Lab6_LuisTujab_1103920\Lab6_LuisTujab_1103920.cpp(86,36): warning C4101: 'error': variable local sin referencia
+  List.cpp
+  Generando código...
+  AssemblyInfo.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Lab6_LuisTujab_1103920.vcxproj -> C:\Users\luisp\Desktop\Landivar\Segundo Año\Cuarto Ciclo\Progra Avanzada\Lab Avanzada\Lab6_LuisTujab_1103920\Debug\Lab6_LuisTujab_1103920.exe
